@@ -19,13 +19,13 @@ module.exports = function(grunt) {
 		    ' *\n' +
 		    ' * Homepage: <%= pkg.homepage %>\n' +
 		    ' *\n' +
-		    ' * By @<%= pkg.author %>\n' +
+		    ' * By <%= pkg.author %>\n' +
 		    ' *\n' +
 		    ' * Last modify time: <%= grunt.template.today("yyyy-mm-dd") %>\n' +
 		    ' *\n' +
-		    ' * Licensed under the MIT license. Please see LICENSE for more information.\n' +
-		    ' *\n' +
-		    ' * Copyright 2013 FLATHEMES.\n' +
+		    //' * Licensed under the MIT license. Please see LICENSE for more information.\n' +
+		    //' *\n' +
+		    ' * Copyright 2017 NinJa911.com.\n' +
 		    ' *\n' +
 		    ' */\n',
 
